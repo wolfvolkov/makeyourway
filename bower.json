@@ -1,0 +1,20 @@
+{
+  "name": "makeyourway",
+  "version": "1.0.0",
+  "authors": [
+    "volkov <volkov@5-soft.com>"
+  ],
+  "description": "new version of engine",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "backbone": "~1.1.2"
+  }
+}
